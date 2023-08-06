@@ -1,0 +1,2 @@
+Cannot override color or theme variable in tailind 
+  Use the class inside the react app, compiler will ignore the class if there's no place is using 

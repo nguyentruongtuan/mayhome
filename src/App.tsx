@@ -1,12 +1,13 @@
-import './App.css';
-import logo from './logo.svg';
+import Content from './components/content';
+import Footer from './components/footer';
+import Header from './components/header';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
+    <div className='tracking-wider text-color-secondary bg-color-primary'>
+      <Header />
+      <Content />
+      <Footer />
     </div>
   );
 }
