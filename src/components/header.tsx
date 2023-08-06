@@ -10,7 +10,8 @@ const Header = () => {
         </div>
         <div>
           <ul className="hidden lg:flex items-center space-x-6">
-            <li><a href="tel:0793442254">Liên hệ</a></li>
+            <li><a href="tel:0829282314">Liên hệ</a></li>
+            <li><a href="tel:0829282314">0829282314</a></li>
           </ul>
         </div>
 

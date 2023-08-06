@@ -34,7 +34,7 @@ export default function Footer() {
             <h4 className="font-bold text-lg">Thông Tin liên hệ </h4>
             <p className="leading-relaxed">
               Email: <a href="mailto:denny.truongnguyen@gmail.com">denny.truongnguyen@gmail.com</a>  <br />
-              Hot line: <a href="tel:0793442254">0793442254 </a>
+              Hot line: <a href="tel:0829282314">0829282314 </a>
             </p>
           </div>
         </div>

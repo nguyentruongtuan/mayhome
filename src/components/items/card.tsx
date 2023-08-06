@@ -29,7 +29,7 @@ export default function Card(data: { content: CardContent }) {
       </p>
       <div className="flex w-full mt-4">
 
-        <button className="btn mx-auto">Đặt hàng</button>
+        <a href="tel:0829282314" className="btn mx-auto">Gọi đặt hàng</a>
       </div>
 
     </div>
