@@ -11,10 +11,11 @@ export default function Footer() {
               bảo thích mê.</p>
             <div className="flex gap-5 items-center">
               <p>Follow Us</p>
-              <i className="fa-brands fa-facebook-f cursor-pointer hover:text-color-secondary"></i>
-              <i className="fa-brands fa-twitter cursor-pointer hover:text-color-secondary"></i>
-              <i className="fa-brands fa-youtube cursor-pointer hover:text-color-secondary"></i>
-              <i className="fa-brands fa-instagram cursor-pointer hover:text-color-secondary"></i>
+              <a href="https://www.facebook.com/Trendy.st0110" target="_blank" rel="noreferrer">
+                <i className="fa-brands fa-facebook-f cursor-pointer hover:text-color-secondary">
+
+                </i>
+              </a>
             </div>
           </div>
           <div className="space-y-6">
