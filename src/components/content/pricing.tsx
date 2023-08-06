@@ -6,6 +6,7 @@ export default function Pricing() {
     {
       id: 1,
       title: "561,000 VND",
+      img: "3-solar-orange.png",
       details: [
         {
           caption: "Dung lượng:",
@@ -28,6 +29,7 @@ export default function Pricing() {
     {
       id: 2,
       title: "736,000 VND",
+      img: "4-solar-orange.png",
       details: [
         {
           caption: "Dung lượng:",
@@ -50,6 +52,7 @@ export default function Pricing() {
     {
       id: 3,
       title: "778.000 VND",
+      img: "charging.png",
       details: [
         {
           caption: "Dung lượng:",
@@ -72,6 +75,7 @@ export default function Pricing() {
     {
       id: 4,
       title: "897,000 VND",
+      img: "light.jpg",
       details: [
         {
           caption: "Dung lượng:",
@@ -95,7 +99,7 @@ export default function Pricing() {
 
 
   return (
-    <section className="bg-color-primary-light">
+    <section className="bg-color-primary">
 
       <div className="container py-20">
         <div className="text-center m-auto mb-20 md:w-1/2">
