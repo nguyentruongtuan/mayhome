@@ -6,7 +6,7 @@ export default function Pricing() {
     {
       id: 1,
       title: "561,000 VND",
-      img: "3-solar-orange.png",
+      img: "3-solar-orange.png.webp",
       details: [
         {
           caption: "Dung lượng:",
@@ -29,7 +29,7 @@ export default function Pricing() {
     {
       id: 2,
       title: "736,000 VND",
-      img: "4-solar-orange.png",
+      img: "4-solar-orange.png.webp",
       details: [
         {
           caption: "Dung lượng:",
@@ -52,7 +52,7 @@ export default function Pricing() {
     {
       id: 3,
       title: "778.000 VND",
-      img: "charging.png",
+      img: "charging.png.webp",
       details: [
         {
           caption: "Dung lượng:",
@@ -75,7 +75,7 @@ export default function Pricing() {
     {
       id: 4,
       title: "897,000 VND",
-      img: "light.jpg",
+      img: "light.jpg.webp",
       details: [
         {
           caption: "Dung lượng:",
